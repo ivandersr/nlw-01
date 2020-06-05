@@ -1,0 +1,14 @@
+{
+            "name": "Teste casa",
+            "email": "ivandersalvadorruiz@gmail.com",
+            "whatsapp": "+5544998499840",
+            "latitude": -23.47628,
+            "longitude": -52.5541918,
+            "city": "Japura",
+            "uf": "PR",
+						"items":[
+							1,
+							3,
+							4
+						]
+}
